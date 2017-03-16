@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.medpower.nlha.app" version="1.00" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>New London Hospital</name>
+<widget id="org.medpower.nlha2.app" version="1.00" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>New London Hospital eLearning Services</name>
     <description>
         New London Hospital eLearning Services – Anytime access to education materials via online micro-learning modules.
     </description>
